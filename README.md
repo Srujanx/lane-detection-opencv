@@ -1,4 +1,4 @@
-# Lane Detection System — TuSimple Dataset
+# Lane Detection System
 ### Classical Computer Vision | OpenCV Only | No Deep Learning
 
 ---
